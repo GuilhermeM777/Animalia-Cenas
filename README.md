@@ -9,4 +9,4 @@
 - Fase 3 (Pacaembu) (Ainda precisa ser feita)
 
 # Wikis
--  Fase 1 <a href= “http://exemplo.com/“>
+-  Fase 1 <a href = [(https://github.com/GuilhermeM777/Animalia-Cenas/wiki/Fase-1-(Bixiga))]> 

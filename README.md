@@ -9,4 +9,4 @@
 - Fase 3 (Pacaembu) (Ainda precisa ser feita)
 
 # Wikis
--  [Fase 1 - Bixiga]([https://github.com/GuilhermeM777/Animalia/wiki/Fases%E2%80%90M%C3%BAsicas](https://github.com/GuilhermeM777/Animalia-Cenas/wiki/Fase-1-(Bixiga)))
+-  [Fase 1 - Bixiga]([[https://github.com/GuilhermeM777/Animalia-Cenas/wiki/Fase-1-(Bixiga)]] )
